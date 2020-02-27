@@ -15,7 +15,6 @@ Lustrous Legacy is a game project being developed for the Video Game and Develop
 - Kristina Wong _(Sound Engineer)_
 
 [Old Video Demonstration](https://www.youtube.com/watch?v=X5nR9fbxPGw)  
-[Download](http://www.haydenmcfarland.me/downloads/LL_sample_build.zip  )
 
 ### Status: 
 
